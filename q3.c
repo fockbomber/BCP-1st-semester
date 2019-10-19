@@ -1,4 +1,5 @@
 //3
+//Find the sum of diagnol in a 3x3 matrix
 
 #include <stdio.h>
 

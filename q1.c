@@ -1,6 +1,6 @@
 //1
 #include <stdio.h>
-Void main()
+int main()
 {
     int i;
     char x;
