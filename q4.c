@@ -1,5 +1,5 @@
 //4
-
+//Printing upper and lower triangle of a matrix
 #include <stdio.h>
 
 #include<math.h>

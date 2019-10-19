@@ -1,4 +1,5 @@
 //2
+//Programme to calculate Simple interest
 
 #include <stdio.h>
 #include <math.h>
